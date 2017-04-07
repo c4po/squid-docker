@@ -1,0 +1,2 @@
+# squid-docker
+docker squid
